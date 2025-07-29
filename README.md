@@ -1,1 +1,0 @@
-# copyright-checker-blog
